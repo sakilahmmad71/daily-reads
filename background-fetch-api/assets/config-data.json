@@ -1,0 +1,12 @@
+{
+    "title": "My series",
+    "urls": ["/assets/img1.jpg", "/assets/img2.jpg"],
+    "downloadTotal": 1531774699,
+    "icons": [
+        {
+            "src": "icon.png",
+            "size": "128x128",
+            "type": "image/png"
+        }
+    ]
+}
